@@ -42,6 +42,3 @@ The game is built using JavaScript with the p5.js and p5.play libraries.
 **License:**
 
 This project is open source and available for learning and experimentation.
-
-
-1. Clone the repository:
